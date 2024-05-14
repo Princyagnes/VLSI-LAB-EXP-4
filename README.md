@@ -302,7 +302,7 @@ endmodule
 
 # SR FLIPFLOP:
 
-![srff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/aa330e3f-7c88-493b-a80b-645a442a9803)
+![srff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/f4956bc9-2a50-4e55-9ace-bb519cf1c230)
 
 
 # JK FLIPFLOP:
@@ -312,7 +312,7 @@ endmodule
 
 # T FLIPFLOP:
 
-![tff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/6b355d8c-598a-4854-a69e-ebb0876fade4)
+![tff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/45df4bb0-6599-4b44-8bb2-de1a3d33e6fd)
 
 
 # D FLIPFLOP:
