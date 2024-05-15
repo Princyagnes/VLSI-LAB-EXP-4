@@ -322,7 +322,8 @@ endmodule
 
 # UPDOWN COUNTER:
 
-![updown](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/b06d62c9-0429-4122-8def-c46e544ca454)
+![updown](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/c08779c0-1853-4973-9ef2-6572364477d8)
+
 
 
 # MOD 10 COUNTER:
