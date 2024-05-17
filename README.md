@@ -31,29 +31,7 @@ STEP:7 compare the output with truth table.
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
 
-
-# JK FLIPFLOP:
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
-
-# T FLIPFLOP:
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
-
-
-# D FLIPFLOP:
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
-
-
-# COUNTER:
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
-
-
-# VERILOG CODE:
-
-# SR FLIPFLOP:
+# Verilog code:
 
 module srff(clk,rst,s,r,q);
 
@@ -91,8 +69,17 @@ end
 
 endmodule
 
+# Output:
+
+![srff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/f4956bc9-2a50-4e55-9ace-bb519cf1c230)
+
 
 # JK FLIPFLOP:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+
+
+# Verilog code:
 
 module jkff(clk,rst,j,k,q);
 
@@ -130,8 +117,17 @@ end
 
 endmodule
 
+# Output:
+
+![jkff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/1bbb9b33-711c-4d4e-b583-db18df921e5a)
+
 
 # T FLIPFLOP:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
+
+# Verilog code:
+
 
 module tff(clk,rst,t,q);
 
@@ -161,8 +157,16 @@ end
 
 endmodule
 
+# Output:
+
+![tff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/45df4bb0-6599-4b44-8bb2-de1a3d33e6fd)
+
 
 # D FLIPFLOP:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+
+# Verilog code:
 
 module dff(clk,rst,d,q);
 
@@ -186,8 +190,19 @@ end
 
 endmodule
 
+# Output:
+
+
+![dff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/d0756b05-f682-4856-aa63-45fab4ecee07)
+
+
+# COUNTER:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
+
 
 # UPDOWN COUNTER:
+ # VERILOG CODE:
 
 module updown(clk,rst,updown,out);
 
@@ -215,6 +230,11 @@ end
 
 endmodule
 
+# Output:
+
+
+![updown](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/c08779c0-1853-4973-9ef2-6572364477d8)
+
 
 # MOD 10 COUNTER:
 
@@ -239,6 +259,10 @@ count<=count+1;
 end
 
 endmodule
+
+# Output:
+
+![mod 10](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/8c994767-0fca-43e6-9962-46218e3e24d7)
 
 
 # RIPPLE COUNTER:
@@ -298,40 +322,7 @@ end
 endmodule
 
 
-# OUTPUT WAVEFORM:
-
-# SR FLIPFLOP:
-
-![srff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/f4956bc9-2a50-4e55-9ace-bb519cf1c230)
-
-
-# JK FLIPFLOP:
-
-![jkff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/1bbb9b33-711c-4d4e-b583-db18df921e5a)
-
-
-# T FLIPFLOP:
-
-![tff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/45df4bb0-6599-4b44-8bb2-de1a3d33e6fd)
-
-
-# D FLIPFLOP:
-
-![dff](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/d0756b05-f682-4856-aa63-45fab4ecee07)
-
-
-# UPDOWN COUNTER:
-
-![updown](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/c08779c0-1853-4973-9ef2-6572364477d8)
-
-
-
-# MOD 10 COUNTER:
-
-![mod 10](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/8c994767-0fca-43e6-9962-46218e3e24d7)
-
-
-# RIPPLE COUNTER:
+# OUTPUT:
 
 ![ripple carry](https://github.com/Princyagnes/VLSI-LAB-EXP-4/assets/115100663/fe5aff7d-f9d3-473e-a131-1f578c025dd5)
 
